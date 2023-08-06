@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m 'message'
+git branch b2
+git checkout -b b3
+git remote add origin link
+git push -u origin branch
